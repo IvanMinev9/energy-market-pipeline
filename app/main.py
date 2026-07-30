@@ -1,5 +1,9 @@
+from app.config.settings import APP_NAME
+
 def main():
-    print("Energy Market Data Pipeline started")
+    print(APP_NAME)
 
 if __name__ == "__main__":
     main()
+
+    
