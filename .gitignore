@@ -7,3 +7,6 @@
 # Python cache
 __pycache__/
 *.pyc
+
+I exclude virtual environments, Python cache files, environment variables and generated files. 
+Dependencies are tracked through requirements.txt.
